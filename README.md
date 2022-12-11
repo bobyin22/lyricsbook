@@ -1,4 +1,4 @@
-# 串接API ADELE歌詞本
+#實作： 串接API ADELE歌詞本
 
 網頁預覽：
 

@@ -5,6 +5,8 @@
 
 CodePen URL : https://codepen.io/bobyin22/pen/rNKoava
 
+GitHub：https://bobyin22.github.io/lyricsbook/adele/dist/index.html#
+
 網頁說明：
 
 說明：
